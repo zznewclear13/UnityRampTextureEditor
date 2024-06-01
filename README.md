@@ -6,8 +6,8 @@
 
 Project Window -> Create -> Ramp Texture
 
-![Usage](Usage.png)
+![Usage](./Usage.png)
 
 ### Unity渐变贴图编辑器界面 Unity Ramp Texture Editor GUI
 
-![RampTextureEditorGUI](RampTextureEditorGUI.png)
+![RampTextureEditorGUI](./RampTextureEditorGUI.png)
